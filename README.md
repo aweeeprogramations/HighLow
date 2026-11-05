@@ -20,3 +20,7 @@ Basta abrir o projeto no VS Code e executar o ficheiro `Main.java` clicando em *
 * Gabriel Marques - a22600719
 * Afonso Cabral - a22506076
 * Grupo: 2
+
+## Repositório GitHub
+O código e o histórico de commits deste projeto podem ser consultados em:
+https://github.com/aweeeprogramations/HighLow
